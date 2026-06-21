@@ -2,11 +2,11 @@
 
 # Manoj Kumar
 
-**AI Engineer | Founder | Open Source Contributor**
+**Ready to do anything | Kickstarter | Open Source Contributor**
 
-Building next-generation AI systems and autonomous agents
+Building useful AI systems and autonomous agents
 
-[LinkedIn](https://linkedin.com/in/manojkumar12) · [Twitter](https://twitter.com/manojkumar12) · [Portfolio](https://manojkumar.dev) · [Email](mailto:manoj@example.com)
+[LinkedIn](https://linkedin.com/in/manojkumar12) · [Twitter](https://twitter.com/manojkumar12) · [Portfolio](https://manojkumar.dev) · [Email](mailto:manoj.spoffice.kri@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@ Building next-generation AI systems and autonomous agents
 
 ## About
 
-I'm an AI engineer and founder focused on building intelligent systems that push the boundaries of what's possible. My work centers on autonomous AI agents, large language models, and production-ready AI infrastructure.
+I'm a Kickstarter and open source contributer focused on building intelligent systems that push the boundaries of what's possible. My work centers on useful autonomous AI agents, large language models, and production-ready AI infrastructure.
 
 - **Current focus**: Autonomous agent architectures, LLM orchestration, AI developer tools
 - **Interests**: Reinforcement learning, multi-agent systems, neural architecture search
@@ -59,7 +59,7 @@ React · Node.js · FastAPI · Docker · Kubernetes · AWS · Git · Linux
 - [LinkedIn](https://linkedin.com/in/manojkumar12)
 - [Twitter/X](https://twitter.com/manojkumar12)
 - [Portfolio](https://manojkumar.dev)
-- [Email](mailto:manoj@example.com)
+- [Email](mailto:manoj.spoffice.kri@gmail.com)
 
 ---
 
