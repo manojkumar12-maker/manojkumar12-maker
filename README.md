@@ -1,70 +1,100 @@
-<div align="center">
+# Hi there, I'm Mathangi Manoj Kumar 👋
 
-# Manoj Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%26+Cloud+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-**Ready to do anything | Kickstarter | Open Source Contributor**
-
-Building useful AI systems and autonomous agents
-
-[LinkedIn](https://linkedin.com/in/manojkumar12) · [Twitter](https://twitter.com/manojkumar12) · [Portfolio](https://manojkumar.dev) · [Email](mailto:manoj.spoffice.kri@gmail.com)
-
-</div>
-
----
-
-## About
-
-I'm a Kickstarter and open source contributer focused on building intelligent systems that push the boundaries of what's possible. My work centers on useful autonomous AI agents, large language models, and production-ready AI infrastructure.
-
-- **Current focus**: Autonomous agent architectures, LLM orchestration, AI developer tools
-- **Interests**: Reinforcement learning, multi-agent systems, neural architecture search
-- **Mission**: Build products that don't exist yet and democratize AI technology
-- **Open to**: Collaborating on impactful AI research and open-source projects
-
-## Tech Stack
-
-**AI & Machine Learning**
-
-Python · PyTorch · TensorFlow · LangChain · Hugging Face · OpenAI · LLaMA · Claude
-
-**Languages**
-
-Python · JavaScript · TypeScript · Go · SQL
-
-**Frameworks & Tools**
-
-React · Node.js · FastAPI · Docker · Kubernetes · AWS · Git · Linux
-
-## Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **AI Agent Core** | Autonomous decision-making engine with tool use | In Development |
-| **Neural Nexus** | Distributed training framework for LLMs | Active |
-| **PromptForge** | Prompt engineering and management suite | Beta |
-| **Cognitive Search** | AI-powered semantic search with RAG | Stable |
-| **AgentMesh** | Multi-agent communication protocol | Research |
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manojkumar12-maker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar12-maker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/manojkumar12)
-- [Twitter/X](https://twitter.com/manojkumar12)
-- [Portfolio](https://manojkumar.dev)
-- [Email](mailto:manoj.spoffice.kri@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojkumar12-maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Machilipatnam-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-*Building the future, one commit at a time.*
+- 💻 Full Stack Developer
+- 🌱 Currently learning AI & Cloud
+- 🔭 Building open-source projects
+- 💬 Ask me about JavaScript, React, Node.js, Python
+- 📍 Based in Machilipatnam, India
 
-</div>
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/manojkumar12-maker"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,postgres,docker,git,github,vscode,figma,aws" alt="Tech Stack" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/manojkumar12-maker/binance-signal-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojkumar12-maker&repo=binance-signal-engine&theme=tokyonight&hide_border=true" alt="binance-signal-engine" />
+  </a>
+  <a href="https://github.com/manojkumar12-maker/Krishna-District-Police">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojkumar12-maker&repo=Krishna-District-Police&theme=tokyonight&hide_border=true" alt="Krishna-District-Police" />
+  </a>
+</p>
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**binance-signal-engine**](https://github.com/manojkumar12-maker/binance-signal-engine) | Real-time crypto trading signal engine for Binance with live market analysis. [Live demo](https://binance-signal-engine.vercel.app) | Python |
+| [**Krishna-District-Police**](https://github.com/manojkumar12-maker/Krishna-District-Police) | Web portal for Krishna District Police with public services & information. | JavaScript |
+| _Your next project_ | _Add a description here_ | _Tech_ |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manojkumar12-maker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar12-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manojkumar12-maker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar12-maker&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojkumar12-maker&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+⭐️ From [manojkumar12-maker](https://github.com/manojkumar12-maker)
