@@ -25,6 +25,7 @@
 
 <p align="left">
   <a href="https://github.com/manojkumar12-maker"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://manoj.spoffice.kri@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
   <a href="https://www.instagram.com/name.isz.manu"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
 </p>
 
