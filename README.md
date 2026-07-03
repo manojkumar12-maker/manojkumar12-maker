@@ -45,8 +45,8 @@
   <a href="https://github.com/manojkumar12-maker/binance-signal-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojkumar12-maker&repo=binance-signal-engine&theme=tokyonight&hide_border=true" alt="binance-signal-engine" />
   </a>
-  <a href="https://github.com/manojkumar12-maker/Krishna-District-Police">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojkumar12-maker&repo=Krishna-District-Police&theme=tokyonight&hide_border=true" alt="Krishna-District-Police" />
+  <a href="https://github.com/manojkumar12-maker/AICluster-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojkumar12-maker&repo=AICluster-Studio&theme=tokyonight&hide_border=true" alt="AICluster-Studio" />
   </a>
 </p>
 
