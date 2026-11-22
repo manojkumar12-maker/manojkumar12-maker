@@ -1,35 +1,18 @@
-<!-- TERMINAL INSTRUMENT // mission-console profile -->
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM ONLINE // manojkumar12-maker                            ●  ●  ●      │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<h1 align="left">
-  <samp>I build engines that trade,<br/>orchestrate and never sleep.</samp>
-</h1>
-
-<samp>Python signal engines on Fly.io, Node trading systems, multi-agent orchestration
-in AICluster Studio — four shipped systems, all dockerized, all public.</samp>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg" />
+  <img src="assets/banner.svg" alt="SYSTEM ONLINE // manojkumar12-maker — I build engines that trade, orchestrate and never sleep." width="100%" />
+</picture>
 
 <p align="left">
-  <a href="https://github.com/manojkumar12-maker?tab=repositories"><samp><b>Explore the repos →</b></samp></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/manojkumar12-maker?tab=followers"><img src="https://img.shields.io/github/followers/manojkumar12-maker?style=flat-square&labelColor=05080f&color=00e5a0&logo=github&logoColor=00e5a0" alt="Followers" /></a>
+  <a href="https://github.com/manojkumar12-maker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_REPOS-→-00e5a0?style=for-the-badge&labelColor=05080f&logo=github&logoColor=05080f" alt="Explore the repos" /></a>
+  <a href="https://github.com/manojkumar12-maker?tab=followers"><img src="https://img.shields.io/github/followers/manojkumar12-maker?style=flat-square&label=FOLLOWERS&labelColor=05080f&color=00e5a0&logo=github&logoColor=00e5a0" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=manojkumar12-maker&style=flat-square&labelColor=05080f&color=00e5a0&label=SESSION+VIEWS" alt="Profile Views" />
   <a href="mailto:manoj.spoffice.kri@gmail.com"><img src="https://img.shields.io/badge/UPLINK-OPEN-00e5a0?style=flat-square&labelColor=05080f&logo=gmail&logoColor=00e5a0" alt="Email uplink" /></a>
 </p>
 
 ---
 
-### ◢ ACTIVE MODULES
-
-```text
-$ ls ./deployed
-```
+<img src="assets/h-modules.svg" alt="ACTIVE MODULES" width="420" />
 
 | STATUS | MODULE | FUNCTION |
 |:------:|--------|----------|
@@ -58,7 +41,7 @@ $ ls ./deployed
 
 ---
 
-### ◢ SYSTEM LOG
+<img src="assets/h-log.svg" alt="SYSTEM LOG" width="420" />
 
 ```text
 $ whoami
@@ -75,7 +58,7 @@ $ tail -1 changelog
 
 ---
 
-### ◢ TELEMETRY
+<img src="assets/h-telemetry.svg" alt="TELEMETRY" width="420" />
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojkumar12-maker&show_icons=true&hide_border=true&bg_color=05080f&title_color=7ef9d4&text_color=d8e6f2&icon_color=00e5a0&count_private=true" alt="GitHub Stats" />
@@ -96,11 +79,7 @@ $ tail -1 changelog
 
 ---
 
-### ◢ STACK REGISTRY
-
-```text
-$ ./stack --list
-```
+<img src="assets/h-stack.svg" alt="STACK REGISTRY" width="420" />
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,html,css&theme=dark" alt="Languages and frameworks" />
@@ -111,9 +90,4 @@ $ ./stack --list
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  TRANSMISSION END · uplink: manoj.spoffice.kri@gmail.com · IN/IST            │
-│  © manojkumar12-maker — no signal is financial advice ▮                       │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="assets/footer.svg" alt="TRANSMISSION END · © manojkumar12-maker" width="100%" />

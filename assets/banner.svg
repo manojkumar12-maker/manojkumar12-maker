@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="System online // manojkumar12-maker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080f"/>
+      <stop offset="1" stop-color="#0a1420"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5a0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5a0" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00e5a0" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;200%" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;300%" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1000" height="2" fill="url(#scan)"/>
+  <rect x="0" y="218" width="1000" height="2" fill="url(#scan)"/>
+  <text x="24" y="40" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#00e5a0">┌──────────────────────────────────────────────────────────────┐</text>
+  <text x="24" y="60" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#00e5a0">│</text>
+  <text x="44" y="60" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#8ba3b7">SYSTEM ONLINE // manojkumar12-maker</text>
+  <text x="820" y="60" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#00e5a0">● ● ●</text>
+  <text x="952" y="60" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#00e5a0">│</text>
+  <text x="24" y="80" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="15" fill="#00e5a0">└──────────────────────────────────────────────────────────────┘</text>
+
+  <text x="24" y="122" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="27" font-weight="bold" fill="#7ef9d4">I build engines that trade,</text>
+  <text x="24" y="154" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="27" font-weight="bold" fill="#7ef9d4">orchestrate and never sleep.</text>
+
+  <text x="24" y="184" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="13" fill="#8ba3b7">$ four shipped systems · dockerized · public · uptime &gt; 99.9%</text>
+  <text x="24" y="206" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="13" fill="#00e5a0">▸ EXPLORE THE REPOS →</text>
+  <text x="976" y="206" font-family="JetBrains Mono,Menlo,Consolas,monospace" font-size="13" fill="#00e5a0" text-anchor="end">▮</text>
+</svg>
